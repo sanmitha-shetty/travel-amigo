@@ -117,8 +117,8 @@ ul a{
 }
 
 .one img{
-    width: 200px;
-    height:200px;
+    width: 250px;
+    height:250px;
     border: solid #3882F6 5px;
     border-radius: 15px;
 }
@@ -129,7 +129,7 @@ ul a{
     color: #1E2937;
     height:fit-content;
     font-size: 36px;
-    font-weight: light;
+    font-weight: lighter;
     padding: 70px 300px;
     min-width: 1000px;
 }
